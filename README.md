@@ -1,4 +1,4 @@
-# AltSchool Tinyuka Second Semester Rescue Submission
+# AltSchool Tinyuka Second Semester 
 
 Deployed on PipeOps as required. Live URL points to a working Flask web app.
 
